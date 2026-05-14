@@ -1,0 +1,16 @@
+# Node
+frontend/node_modules
+frontend/dist
+
+# VS Code
+.vscode
+
+# Java
+backend/target
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
