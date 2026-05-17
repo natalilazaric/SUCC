@@ -2,7 +2,7 @@
 
 Web aplikacija za upravljanje uslugama country cluba. Aplikacija se sastoji od Spring Boot backend dijela, Vue/Vite frontend dijela i PostgreSQL baze podataka.
 
-## Upute za instalaciju
+## Upute za pokretanje
 
 1. Kreirajte PostgreSQL bazu podataka pod nazivom:
 
